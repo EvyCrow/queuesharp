@@ -1,0 +1,7 @@
+C:\Users\paart\source\repos\queuesharp\bin\Debug\queuesharp.exe.config
+C:\Users\paart\source\repos\queuesharp\bin\Debug\queuesharp.exe
+C:\Users\paart\source\repos\queuesharp\bin\Debug\queuesharp.pdb
+C:\Users\paart\source\repos\queuesharp\obj\Debug\queuesharp.csproj.AssemblyReference.cache
+C:\Users\paart\source\repos\queuesharp\obj\Debug\queuesharp.csproj.CoreCompileInputs.cache
+C:\Users\paart\source\repos\queuesharp\obj\Debug\queuesharp.exe
+C:\Users\paart\source\repos\queuesharp\obj\Debug\queuesharp.pdb
